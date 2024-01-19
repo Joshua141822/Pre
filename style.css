@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: #8A2BE2; 
+  background-color: #8A2BE2;
 }
 
 nav {
@@ -19,7 +19,7 @@ nav {
 }
 
 .logo {
-  color: #fff; 
+  color: #fff;
   font-size: 1.5rem;
   font-weight: bold;
   font-style: italic;
@@ -28,17 +28,17 @@ nav {
 
 nav a {
   text-decoration: none;
-  color: #fff; 
+  color: #fff;
   padding: 0 1.5rem;
 }
 
 nav a:hover {
-  color: #000; 
+  color: #000;
 }
 
 .hero {
-  background: #8A2BE2; 
-  color: #fff; 
+  background: #8A2BE2;
+  color: #fff;
 }
 
 .hero-container {
@@ -69,19 +69,19 @@ nav a:hover {
 }
 
 button {
-  margin-bottom: 1rem; 
+  margin-bottom: 1rem;
   padding: 1rem 3rem;
   font-size: 1rem;
   border: none;
-  color: #8A2BE2; 
-  background: #fff; 
+  color: #8A2BE2;
+  background: #fff;
   cursor: pointer;
   border-radius: 50px;
 }
 
 button:hover {
-  background: #000; 
-  color: #fff; 
+  background: #000;
+  color: #fff;
 }
 
 .column-left {
@@ -90,12 +90,12 @@ button:hover {
   right: 0;
   display: flex;
   justify-content: center;
-  align-items: center;  
-  padding: 8rem; 
+  align-items: center;
+  padding: 8rem;
 }
 
 .hero-image {
-  max-width: 100%; 
+  max-width: 100%;
   max-height: 200px;
   margin-right: 300px;
   margin-top: -100px;
